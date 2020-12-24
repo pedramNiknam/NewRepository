@@ -1,5 +1,6 @@
-steak supp
-chesse
+steak
+salade
+tomates
 oignons
 cornichons
 ketchup
